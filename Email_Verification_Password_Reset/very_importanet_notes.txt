@@ -1,0 +1,16 @@
+first step :
+open web.config file
+--------------------
+second step : 
+go to appSettings tag 
+--------------------
+third step :
+write your email and password in my comments
+
+######################
+if you face the problem of :
+Error :The SMTP server requires a secure connection or the client was not authenticated. 
+The server response was: 5.5.1 Authentication Required
+-----------------
+this link is very good to solve this problem :
+https://stackoverflow.com/questions/20906077/gmail-error-the-smtp-server-requires-a-secure-connection-or-the-client-was-not
